@@ -19,14 +19,14 @@ async function main() {
 
   console.log("Account balance:", (await deployer.getBalance()).toString());
 
-  const LoseMoneyNFT = await ethers.getContractFactory("LoseMoneyNFT");
-  const loseMoneyNFT = await LoseMoneyNFT.deploy();
-  await loseMoneyNFT.deployed();
+  const XSpend = await ethers.getContractFactory("XSpend");
+  const xSpend = await XSpend.deploy();
+  await xSpend.deployed();
 
-  console.log("Token address:", loseMoneyNFT.address);
+  console.log("Token address:", xSpend.address);
 
   // We also save the contract's artifacts and address in the frontend directory
-  saveFrontendFiles(loseMoneyNFT);
+  saveFrontendFiles(xSpend);
 }
 
 function saveFrontendFiles(token) {
@@ -42,10 +42,10 @@ function saveFrontendFiles(token) {
     JSON.stringify({ Token: token.address }, undefined, 2)
   );
 
-  const TokenArtifact = artifacts.readArtifactSync("LoseMoneyNFT");
+  const TokenArtifact = artifacts.readArtifactSync("XSpend");
 
   fs.writeFileSync(
-    contractsDir + "/LoseMoneyNFT.json",
+    contractsDir + "/XSpend.json",
     JSON.stringify(TokenArtifact, null, 2)
   );
 }

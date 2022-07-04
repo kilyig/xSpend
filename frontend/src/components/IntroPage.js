@@ -14,7 +14,7 @@ export function IntroPage( { click }) {
             <p><i>Spend seamlessly, xSpend the economy.</i></p>
           </center>
           <h3>
-            <strong><i>Aboutt</i></strong>
+            <strong><i>About</i></strong>
           </h3>
           <p>
             We are the world's most efficient and frictionless shop. If you want to contribute
@@ -24,10 +24,10 @@ export function IntroPage( { click }) {
             <strong><i>Background</i></strong>
           </h3>
           <p>
-            Economists have proved that our current economic system -- the one that
+            Economists have proven that our current economic system -- the one that
             loves words like inflation, economic growth and borrowing costs -- is the 
-            way to go (unfortunately there are still <a href="https://yigitkilicoglu.com/files/Discussion_Money_Supply.pdf">some people </a>
-            who question this, but let's forget about them). Fundamental to their 
+            way to go (unfortunately there are still <a href="https://yigitkilicoglu.com/files/Discussion_Money_Supply.pdf">some people </a> 
+             who question this, but let's forget about them). Fundamental to their 
             argument is a process that we affectionately call the <i>journey to prosperity</i>.
             It tells us why built-in inflation is good, why we should create money on demand, etc.
             Let's recall:
@@ -73,7 +73,6 @@ export function IntroPage( { click }) {
           </ol>
           <h3>
             <strong><i>Our Novel Guiding Principles</i></strong>
-            
           </h3>
           <li> <b>Don't judge a book by its cover:</b> Our products are intentionally invisible to prevent you from buying products that you don't actually need.</li>
           <li> <b>The customer knows the best:</b> Have you ever thought that a product was too cheap? Did you wish that it had a higher price? Well, our Product X lets you set its price. This way, YOU will be the one to decide how much your purchase will contribute to the GDP. Pay whatever your heart and brain tell you. Anything is fair game!</li>
