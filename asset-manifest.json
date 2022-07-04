@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/xSpend/static/js/main.a8549311.chunk.js",
+    "main.js.map": "/xSpend/static/js/main.a8549311.chunk.js.map",
+    "runtime-main.js": "/xSpend/static/js/runtime-main.7d458d44.js",
+    "runtime-main.js.map": "/xSpend/static/js/runtime-main.7d458d44.js.map",
+    "static/css/2.5aa997f2.chunk.css": "/xSpend/static/css/2.5aa997f2.chunk.css",
+    "static/js/2.adae9717.chunk.js": "/xSpend/static/js/2.adae9717.chunk.js",
+    "static/js/2.adae9717.chunk.js.map": "/xSpend/static/js/2.adae9717.chunk.js.map",
+    "index.html": "/xSpend/index.html",
+    "precache-manifest.2a7b0112f10b01739d99795a8d1665a7.js": "/xSpend/precache-manifest.2a7b0112f10b01739d99795a8d1665a7.js",
+    "service-worker.js": "/xSpend/service-worker.js",
+    "static/css/2.5aa997f2.chunk.css.map": "/xSpend/static/css/2.5aa997f2.chunk.css.map",
+    "static/js/2.adae9717.chunk.js.LICENSE.txt": "/xSpend/static/js/2.adae9717.chunk.js.LICENSE.txt",
+    "static/media/prosperity.1975704f.svg": "/xSpend/static/media/prosperity.1975704f.svg",
+    "static/media/xspend_logo.png": "/xSpend/static/media/xspend_logo.c2f3b670.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d458d44.js",
+    "static/css/2.5aa997f2.chunk.css",
+    "static/js/2.adae9717.chunk.js",
+    "static/js/main.a8549311.chunk.js"
+  ]
+}
