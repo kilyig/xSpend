@@ -29,7 +29,7 @@ export function IntroPage( { click }) {
             way to go (unfortunately there are still <a href="https://yigitkilicoglu.com/files/Discussion_Money_Supply.pdf">some people </a> 
              who question this, but let's forget about them). Fundamental to their 
             argument is a process that we affectionately call the <i>journey to prosperity</i>.
-            It tells us why built-in inflation is good, why we should create money on demand, etc.
+            It tells us why inflation is good, why deflation is bad, why banks should be able to essentially create money while issuing loans, etc.
             Let's recall:
           </p>
           <ProsperityCycle />
